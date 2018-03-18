@@ -31,3 +31,6 @@ for learning python easy mode!
 1. 開発したらコミット、プッシュ
 1. 自分のリポジトリから プルリクエストをこのリポジトリ宛に送ってね！
 
+## PyCharm で import のエラーが出る場合
+- 下記参照
+  - https://stackoverflow.com/questions/21236824/unresolved-reference-issue-in-pycharm
