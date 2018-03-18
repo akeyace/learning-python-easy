@@ -6,5 +6,3 @@ print(song.get())
 
 music = music.Music(song)
 print(music.get())
-
-
