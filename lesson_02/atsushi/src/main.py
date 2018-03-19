@@ -3,7 +3,7 @@ import genre
 import song
 import music
 
-songname = songName.Songname("ちょ")
+songname = songName.Songname("London Calling")
 
 genre = genre.Genre("Punk")
 
