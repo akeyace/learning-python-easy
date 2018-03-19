@@ -1,8 +1,16 @@
 import songName
 import genre
+import song
+import music
 
 songname = songName.Songname("ちょ")
-print(songname.get())
 
 genre = genre.Genre("Punk")
-print(genre.get())
+
+song = song.Song(songname,genre)
+print(songname.get(), " " + genre.get())
+
+
+
+
+
