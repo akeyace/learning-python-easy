@@ -1,8 +1,8 @@
 import songName
-import genge
+import genre
 
 songname = songName.Songname("ちょ")
 print(songname.get())
 
-genre = genge.Genre("Punk")
+genre = genre.Genre("Punk")
 print(genre.get())
