@@ -4,4 +4,3 @@ class Music:
 
     def get(self):
         return self.song.get()
-

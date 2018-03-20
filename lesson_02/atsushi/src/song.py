@@ -5,4 +5,3 @@ class Song:
 
     def get(self):
         return self.songName.get(), self.genre.get()
-
