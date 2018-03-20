@@ -1,5 +1,5 @@
 class Genre:
-    def __init__(self,name):
+    def __init__(self, name):
         self.name = name
     def get(self):
-            return "ジャンル：" + self.name
+            return "ジャンル： " + self.name

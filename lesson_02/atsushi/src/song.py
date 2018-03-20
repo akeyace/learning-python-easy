@@ -1,11 +1,8 @@
 class Song:
-    def __init__(self,songname,genre):
-        self.songname = songname
+    def __init__(self, songName, genre):
+        self.songName = songName
         self.genre = genre
 
     def get(self):
-        return self.songname.get
-
-    def get(self):
-        return self.genre.get
+        return self.songName.get(), self.genre.get()
 
