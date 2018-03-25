@@ -26,5 +26,3 @@ songs = [song1, song2, song3, song4]
 
 music = music.Music(songs)
 print(music.get())
-
-
