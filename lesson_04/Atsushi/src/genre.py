@@ -3,4 +3,4 @@ class Genre:
         self.genre = name
 
     def get(self):
-        return "ジャンル: " + self.genre.get()
+        return "ジャンル: " + self.genre
