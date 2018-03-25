@@ -4,4 +4,4 @@ class Song:
         self.genre = genre
 
     def get(self):
-        return self.song_name.get(), self.genre.get()
+        return {self.song_name.get(), self.genre.get()}
